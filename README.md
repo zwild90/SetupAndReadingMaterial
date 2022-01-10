@@ -30,9 +30,18 @@ https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
 
 https://www.mygreatlearning.com/blog/why-is-time-complexity-essential/
 
+## Binary Trees
+https://www.w3schools.in/data-structures-tutorial/binary-trees/
+
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+
+
+
+
 ## Sorting Algorithms
 [Bubble Sort](https://www.geeksforgeeks.org/bubble-sort/)
 
 [Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
 
 [Quick Sort](https://www.geeksforgeeks.org/quick-sort/)
+<!-- [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) -->
